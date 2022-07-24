@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_medication"
+        android:icon="@drawable/ic_medication"
+        android:title="@string/title_medications" />
+
+    <item
+        android:id="@+id/navigation_log"
+        android:title="@string/title_log" />
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_clock"
+        android:title="@string/title_History" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_ellipsis"
+        android:title="@string/title_More" />
+
+</menu>
